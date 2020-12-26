@@ -67,7 +67,7 @@ This is a sample
 ```
 
 3. 자동 연결 : <https://www.naver.com/>   
-    `<htttps://naver.com>`
+    <htttps://naver.com>
 
 줄바꾸기   
 -> 글의 마지막에 스페이스바를 3번친다.
