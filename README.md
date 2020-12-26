@@ -47,7 +47,7 @@ This is a sample
 코드블럭     
     -> 네모난 상자안에 코드를 넣어 시각화한다고 생각하면 된다.   
     네가지 방식이 있다.   
-    1.`<pre><code>{code}</code></pre>`
+    1.`<pre><code>{code}</code></pre>`   
     2.코드블럭코드("```") 을 이용하는 방법   
     3.스페이스바를 4번 치는 방법   
     4.'~~~'를 이용하는 방식     
@@ -66,5 +66,8 @@ This is a sample
 [naver](https://www.naver.com/)
 ```
 
-3. 자동 연결 : <https://www.naver.com/>
-    <htttps://naver.com>
+3. 자동 연결 : <https://www.naver.com/>   
+    `<htttps://naver.com>`
+
+줄바꾸기   
+-> 글의 마지막에 스페이스바를 3번친다.
