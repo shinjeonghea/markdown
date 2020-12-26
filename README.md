@@ -47,17 +47,16 @@ This is a sample
 코드블럭     
     -> 네모난 상자안에 코드를 넣어 시각화한다고 생각하면 된다.   
     네가지 방식이 있다.   
-    1. "<pre><code>{code}</code></pre>"
+    1.<pre><code>"<pre><code>{code}</code></pre>"</code></pre> 
     2.코드블럭코드("```") 을 이용하는 방법
     3.스페이스바를 4번 치는 방법
-    4.'~~~'를 이용하는 방식
-
+    4.'~~~'를 이용하는 방식   
+    
 링크
 1. 참조링크 : [naver][id]
 
 [id]: https://www.naver.com/
-<pre><code>
-[naver][id]
+<pre><code>[naver][id]
 
 [id]:https://www.naver.com/
 </code></pre>
