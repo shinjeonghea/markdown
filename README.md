@@ -49,8 +49,8 @@ This is a sample
     네가지 방식이 있다.   
     1.`<pre><code>{code}</code></pre>`   
     2.코드블럭코드("```") 을 이용하는 방법   
-    3.스페이스바를 4번 치는 방법   
-    4.'~~~'를 이용하는 방식     
+    3.'~~~'를 이용하는 방식     
+    + ``를 사요알 경우에도 블럭이 생성 
     
 링크
 1. 참조링크 : [naver][id]
@@ -67,7 +67,11 @@ This is a sample
 ```
 
 3. 자동 연결 : <https://www.naver.com/>   
-    <htttps://naver.com>
+~~~
+<htttps://naver.com>
+~~~   
+
+
 
 줄바꾸기   
 -> 글의 마지막에 스페이스바를 3번친다.
