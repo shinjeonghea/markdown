@@ -1,6 +1,5 @@
-<!--markdown 공부 주소1 : https://gist.github.com/ihoneymon/652be052a0727ad59601 -->
-<!--마크다운 웹 에디터 : https://dillinger.io/ -->
-
+# markdown 공부 주소1 : https://gist.github.com/ihoneymon/652be052a0727ad59601
+# 마크다운 웹 에디터 : https://dillinger.io/
 
 This is an header
 =================
