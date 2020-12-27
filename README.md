@@ -1,4 +1,5 @@
-markdown 공부 주소1 : <https://gist.github.com/ihoneymon/652be052a0727ad59601>   
+markdown 공부 주소1 : <https://gist.github.com/ihoneymon/652be052a0727ad59601>
+markdonw 공부 주소2 : <https://gist.github.com/ninanung/6691b7d68a4c1b815c0cc85693929ca3>
 마크다운 웹 에디터 : <https://dillinger.io/>   
 
 This is an header
@@ -73,5 +74,17 @@ This is a sample
 
 줄바꾸기   
 -> 글의 마지막에 스페이스바를 3번친다.   
+ 
+테이블    
+->안에 '----'안해주면 표로 인식 못함   
+->안에 비워두면 표도 비워서 나옴다.
+~~~ 
+머리| 진하게 | 나옴 | 이렇게
+---- | ---- | ---- | ----
+이건 | 안에 | 내용 | 
+~~~
 
-테이블
+
+머리글| 진하게 | 나옴 | 이렇게
+---- | ---- | ---- | ----
+이건 | 안에 | 내용 | 
